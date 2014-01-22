@@ -19,7 +19,7 @@ config.yaml
 
 ## Usage
 
-Before you start, you must set the api key in config.yaml file.
+Before you start, you must set the api key in config.yaml file or if you don't want to use an additional file you can set api url/key directly in your main file.
 
 example.py
 
