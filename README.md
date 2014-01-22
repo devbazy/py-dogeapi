@@ -25,7 +25,7 @@ example.py
 
     from py-dogeapi import *
     
-    stream = open("api.yaml", "r")
+    stream = open("config.yaml", "r")
     config = yaml.load(stream)
     doge = DogeApi(config["api_url"], config["api_key"])
     
