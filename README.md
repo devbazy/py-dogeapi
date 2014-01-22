@@ -1,6 +1,6 @@
 # Python DogeApi
 
-A simple python module for using dogeapi.com service.
+A simple python module for dogeapi.com service.
 
 See the documentation here: https://dogeapi.com/api_documentation
 
