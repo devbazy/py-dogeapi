@@ -6,9 +6,9 @@ See the documentation here: https://dogeapi.com/api_documentation
 
 ## Installation
 
-    pip install py-dogeapi
+Use the command below to install the py-dogeapi module.
 
-## Settings
+    pip install py-dogeapi
 
 Create config.yaml file if it doesn't exists.
 
