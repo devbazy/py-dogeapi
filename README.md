@@ -29,7 +29,7 @@ example.py
     config = yaml.load(stream)
     doge = DogeApi(config["api_url"], config["api_key"])
     
-    # get my addresses
+    # get all addresses
     addresses = doge.get_my_adresses()
 
     for address in addresses:
